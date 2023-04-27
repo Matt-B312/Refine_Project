@@ -9,7 +9,7 @@ This is a real estate Mern app with CRUD and google Oauth made with Refine
 
 ## Screen Shots
 
-* ![alt text](<blockquote class="imgur-embed-pub" lang="en" data-id="pzg3XzZ"><a href="https://imgur.com/pzg3XzZ">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+* ![alt text](https://imgur.com/pzg3XzZ)
 
 
 
