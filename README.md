@@ -17,6 +17,7 @@ This is a real estate Mern app with CRUD and google Oauth made with Refine
 
 - React.js
 - HTML
+- Javascript
 - TypeScript
 - CSS
 - Cloudinary
